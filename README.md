@@ -4,6 +4,10 @@
 
 - Composer install
 
+- rename example.env to .env
+
+- fill database credentails
+
 - run ./vendor/bin/sail build 
 
 - run ./vendor/bin/sail up -d
